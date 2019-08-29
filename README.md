@@ -4,4 +4,4 @@ This is a tool made with Maya Python scripting to generate moving boxes. The use
 
 [My tool in action!](https://www.youtube.com/watch?v=-amqRnyAT6c)
 
-![mushrooms](./Image/mushroom.png)
+![mushrooms](./Image/box)
